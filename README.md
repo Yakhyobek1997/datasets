@@ -1,2 +1,2 @@
-# datasets
-I worked with datasets during my AI practicum course
+# praktikum_datasets
+Datasets for Data Science and AI Praktikum
